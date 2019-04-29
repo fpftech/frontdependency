@@ -28,6 +28,7 @@
     "angular-tree-component": "^7.1.0",
     "angular2-cookie": "^1.2.6",
     "angular2-notifications": "0.9.6",
+    "angular2-signaturepad": "^2.8.0",
     "angular4-carousel": "^3.1.8",
     "blueimp-canvas-to-blob": "^3.14.0",
     "core-js": "2.5.1",
