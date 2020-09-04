@@ -50,7 +50,7 @@
     "ngx-progressbar": "^2.1.1",
     "ngx-quill": "^2.2.0",
     "ngx-swiper-wrapper": "^7.2.1",
-    "node-sass": "4.6.0",
+    "node-sass": "4.14.1",
     "rxjs": "5.5.2",
     "zone.js": "0.8.18",
     "@angular/material-moment-adapter": "latest"
